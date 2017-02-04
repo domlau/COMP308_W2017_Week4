@@ -1,0 +1,39 @@
+{
+  "name": "comp308-connect---week4",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.5.2",
+    "express": "~4.14.0",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": ">=3.5.0"
+  },
+  "description": "Intro to MongoDB",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domlau/COMP308_W2017_Week4.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "EJS"
+  ],
+  "author": "Dominic Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domlau/COMP308_W2017_Week4/issues"
+  },
+  "homepage": "https://github.com/domlau/COMP308_W2017_Week4#readme"
+}
